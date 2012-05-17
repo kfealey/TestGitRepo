@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/2/trunk/.esapi
+END
+users.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/.esapi/users.txt
+END
+ESAPI-AccessControlPolicy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/.esapi/ESAPI-AccessControlPolicy.xml
+END
+antisamy-esapi.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/.esapi/antisamy-esapi.xml
+END
+validation.properties
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/.esapi/validation.properties
+END
+waf-policy.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/.esapi/waf-policy.xsd
+END
+ESAPI.properties
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/.esapi/ESAPI.properties
+END
