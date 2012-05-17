@@ -1,0 +1,21 @@
+body{
+	background-color:#fff;;	
+}
+
+#stats table{
+	border: 1px solid #000;
+}
+
+#stats table td{
+	border: 1px solid #000;
+	margin: 0px;
+}
+
+#stats table th{
+	border: 1px solid #000;
+	margin: 0px;
+}
+
+.rule{
+	display: block;
+}
